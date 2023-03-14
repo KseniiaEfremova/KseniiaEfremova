@@ -1,9 +1,9 @@
 ### Hi there, I'm Kseniia 👋
 
-🌱 Graduated from the Just IT bootcamp (JUly2022 Cohort)
-🔭 I’m currently studying as a Software Engineer at Xander Talent
-🥅 2023 Goals: Maximise my learning, contribute to new projects
-⚡ Fun facts: I enjoy playing valleyball, hiking 🚶‍♀ and playing boardgames.
+- 🌱 Graduated from the Just IT bootcamp (JUly2022 Cohort)
+- 🔭 I’m currently studying as a Software Engineer at Xander Talent
+- 🥅 2023 Goals: Maximise my learning, contribute to new projects
+- ⚡ Fun facts: I enjoy playing valleyball, hiking 🚶‍♀ and playing boardgames.
 
 <!--
 **KseniiaEfremova/KseniiaEfremova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,16 +24,6 @@ I am a former qualified medical doctor turned Software Developer with a strong p
 After completing the Bootcamp, I continued to enhance my skills and learned React.js. Currently, I am studying at Xander Company, where I am improving my communication and technical skills while working in a team and creating exciting new projects.
 
 ## Technologies most used:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height=40 />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height=40 />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height=40 />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height=40 />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height=40 />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height=40 />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height=40 />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height=40 />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height=40 />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height=40 /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height=40 /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height=40 /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height=40 /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height=40 /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height=40 /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height=40 /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height=40 /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height=40 />
           
-                              
-          
-          
+                             
