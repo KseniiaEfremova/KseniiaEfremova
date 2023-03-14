@@ -3,7 +3,7 @@
 - 🌱 Graduated from the Just IT bootcamp (JUly2022 Cohort)
 - 🔭 I’m currently studying as a Software Engineer at Xander Talent
 - 🥅 2023 Goals: Maximise my learning, contribute to new projects
-- ⚡ Fun facts: I enjoy playing valleyball, hiking 🚶‍♀ and playing boardgames.
+- ⚡ Fun facts: I enjoy playing volleyball, hiking 🚶‍♀ and playing board games.
 
 I am a former qualified medical doctor turned Software Developer with a strong passion for coding. In 2022, I completed a 12-week intensive Bootcamp at Just IT, where I gained experience in front-end and back-end development and worked on projects using Python and JavaScript. Prior to the course, I self-taught Python, algorithms, data structures, and Git source control and created small projects for over a year.
 
