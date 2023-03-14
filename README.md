@@ -25,7 +25,10 @@ After completing the Bootcamp, I continued to enhance my skills and learned Reac
 
 <br>
 <img src="https://raw.githubusercontent.com/OliverCadman/OliverCadman/master/assets/images/LinkedIn%20Software%20%26%20Data%20Engineering.png"></img><br>
-## Technologies most used:
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?KseniiaEfremova=anuraghazra)](https://github.com/KseniiaEfremova/github-readme-stats)
+
+### Technologies most used:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height=40 /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height=40 /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height=40 /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height=40 /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height=40 /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height=40 /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height=40 /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height=40 /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height=40 />
           
                              
