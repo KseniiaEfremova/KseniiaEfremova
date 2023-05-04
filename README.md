@@ -10,7 +10,6 @@ I am a former qualified medical doctor turned Software Developer with a strong p
 After completing the Bootcamp, I continued to enhance my skills and learned React.js. Currently, I am studying at Xander Company, where I am improving my communication and technical skills while working in a team and creating exciting new projects.
 
 <br>
-<img src="https://raw.githubusercontent.com/OliverCadman/OliverCadman/master/assets/images/LinkedIn%20Software%20%26%20Data%20Engineering.png"></img><br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KseniiaEfremova)](https://github.com/KseniiaEfremova/github-readme-stats)
 
