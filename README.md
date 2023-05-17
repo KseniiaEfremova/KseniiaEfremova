@@ -1,13 +1,16 @@
-### Hi there, I'm Kseniia 👋
+## Hi there, I'm Kseniia 👋
 
-- 🌱 Graduated from the Just IT bootcamp (JUly2022 Cohort)
-- 🔭 I’m currently studying as a Software Engineer at Xander Talent
-- 🥅 2023 Goals: Maximise my learning, contribute to new projects
+- 🌱 Graduated from the Just IT bootcamp (July 2022 Cohort).
+- 🔭 Met a 2-month trainee program at Xander Talent Company.
+- 🥅 2023 Goals: Study React.js and Node.js and created 3 respective projects.
 - ⚡ Fun facts: I enjoy playing volleyball, hiking 🚶‍♀ and playing board games.
 
-I am a former qualified medical doctor turned Software Developer with a strong passion for coding. In 2022, I completed a 12-week intensive Bootcamp at Just IT, where I gained experience in front-end and back-end development and worked on projects using Python and JavaScript. Prior to the course, I self-taught Python, algorithms, data structures, and Git source control and created small projects for over a year.
+As a qualified medical doctor with a strong passion for coding, I am committed to pursuing a career in Software Development. I possess solid algorithmic thinking skills and am detail-oriented, allowing me to approach problems with a meticulous and analytical mindset. 
+I am dedicated to continuous learning and staying up to date with industry trends to enhance my coding abilities.
 
-After completing the Bootcamp, I continued to enhance my skills and learned React.js. Currently, I am studying at Xander Company, where I am improving my communication and technical skills while working in a team and creating exciting new projects.
+I also volunteered for a small charity company, developing its website, which allowed me to contribute to a meaningful cause while gaining valuable experience.
+
+As a software developer, I am confident that my passion for coding, curiosity, and good communicative skills will enable me to add value to any project. I am eager to continue my professional development and work collaboratively with experienced engineers to advance my skills further and contribute to the success of the team and the company.
 
 <br>
 
