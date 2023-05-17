@@ -1,5 +1,5 @@
 ## Hi there, I'm Kseniia 👋
-
+#### Glad to see you here! ![Visitors](https://api.visitorbadge.io/api/visitors?path=KseniiaEfremova&countColor=%23ba68c8&style=flat)
 - 🌱 Graduated from the Just IT bootcamp (July 2022 Cohort).
 - 🔭 Met a 2-month trainee program at Xander Talent Company.
 - 🥅 2023 Goals: Study React.js and Node.js and created 3 respective projects.
