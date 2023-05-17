@@ -32,7 +32,7 @@ As a software developer, I am confident that my passion for coding, curiosity, a
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=KseniiaEfremova&show_icons=true&theme=buefy) <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KseniiaEfremova&layout=compact&theme=buefy"/>
 
-### Technologies most used:
+### :hammer_and_wrench: Languages and Tools :
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height=40 /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height=40 /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height=40 /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height=40 /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height=40 /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height=40 /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height=40 /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height=40 /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height=40 />
           
                              
