@@ -1,4 +1,18 @@
 ## Hi there, I'm Kseniia 👋
+<div id="badges">
+  <a href="[your-linkedin-URL](https://www.linkedin.com/in/kseniia-efremova-1797aa234/)">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="http://www.kseniia-efremova.com/">
+    <img src="https://img.shields.io/badge/Portfolio-gray?style=for-the-badge&logo=porfolio&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="[your-twitter-URL](https://gitlab.com/horomi)">
+    <img src="https://img.shields.io/badge/GitLab-orange?style=for-the-badge&logo=gitlab&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  <a href="[your-twitter-URL](https://www.hackerrank.com/ef_xenya)">
+    <img src="https://img.shields.io/badge/HackerRank-success?style=for-the-badge&logo=hacker_rank&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 #### Glad to see you here! ![Visitors](https://api.visitorbadge.io/api/visitors?path=KseniiaEfremova&countColor=%23ba68c8&style=flat) [![Github](https://img.shields.io/github/followers/KseniiaEfremova?label=Follow&style=social)](https://github.com/KseniiaEfremova)
 - 🌱 Graduated from the Just IT bootcamp (July 2022 Cohort).
 - 🔭 Met a 2-month trainee program at Xander Talent Company.
