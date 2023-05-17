@@ -1,5 +1,5 @@
 ## Hi there, I'm Kseniia 👋
-#### Glad to see you here! ![Visitors](https://api.visitorbadge.io/api/visitors?path=KseniiaEfremova&countColor=%23ba68c8&style=flat)
+#### Glad to see you here! ![Visitors](https://api.visitorbadge.io/api/visitors?path=KseniiaEfremova&countColor=%23ba68c8&style=flat) [![Github](https://img.shields.io/github/followers/KseniiaEfremova?label=Follow&style=social)](https://github.com/KseniiaEfremova)
 - 🌱 Graduated from the Just IT bootcamp (July 2022 Cohort).
 - 🔭 Met a 2-month trainee program at Xander Talent Company.
 - 🥅 2023 Goals: Study React.js and Node.js and created 3 respective projects.
@@ -14,7 +14,9 @@ As a software developer, I am confident that my passion for coding, curiosity, a
 
 <br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KseniiaEfremova)](https://github.com/KseniiaEfremova/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=KseniiaEfremova&show_icons=true&theme=buefy) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KseniiaEfremova&theme=buefy)
+
 
 ### Technologies most used:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height=40 /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height=40 /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height=40 /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height=40 /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height=40 /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height=40 /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height=40 /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height=40 /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height=40 />
