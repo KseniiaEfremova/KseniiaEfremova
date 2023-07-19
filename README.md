@@ -20,7 +20,7 @@
 - 🔭 Did a 2-month trainee program at Xander Talent Company.
 - 🥅 2023 Goals: Study React.js and Node.js and created 3 respective projects.
 - :books: I am currently learning: React.js.
-- :zap: In my free time, I solve problems on HackerRank and play Volleyball.
+- :zap: In my free time, I solve problems on LeetCode and play Volleyball.
 
 As a qualified medical doctor with a strong passion for coding, I am committed to pursuing a career in Software Development. I possess solid algorithmic thinking skills and am detail-oriented, allowing me to approach problems with a meticulous and analytical mindset. 
 I am dedicated to continuous learning and staying up to date with industry trends to enhance my coding abilities.
