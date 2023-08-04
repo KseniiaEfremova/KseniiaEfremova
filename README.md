@@ -9,18 +9,15 @@
   <a href="https://gitlab.com/horomi">
     <img src="https://img.shields.io/badge/GitLab-orange?style=for-the-badge&logo=gitlab&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href="[https://www.hackerrank.com/ef_xenya">
-    <img src="https://img.shields.io/badge/HackerRank-success?style=for-the-badge&logo=hacker_rank&logoColor=white" alt="Twitter Badge"/>
-  </a>
 </div>
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=KseniiaEfremova&labelColor=%23d9e3f0&countColor=%23ba68c8)
 <br>
 - 🌱 Graduated from the Just IT bootcamp (July 2022 Cohort).
 - 🔭 Did a 2-month trainee program at Xander Talent Company.
-- 🥅 2023 Goals: Study React.js and Node.js and created 3 respective projects.
-- :books: I am currently learning: React.js.
-- :zap: In my free time, I solve problems on LeetCode and play Volleyball.
+- 🥅 2023 Goals: Study Python, REST API, Docker and created 3 respective projects.
+- :books: I am currently solving algorithmic challenges on LeetCode
+- :zap: In my free time, I play Volleyball.
 
 As a qualified medical doctor with a strong passion for coding, I am committed to pursuing a career in Software Development. I possess solid algorithmic thinking skills and am detail-oriented, allowing me to approach problems with a meticulous and analytical mindset. 
 I am dedicated to continuous learning and staying up to date with industry trends to enhance my coding abilities.
