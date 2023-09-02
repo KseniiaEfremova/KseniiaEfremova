@@ -3,9 +3,6 @@
   <a href="https://www.linkedin.com/in/kseniia-efremova-1797aa234/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="http://www.kseniia-efremova.com/">
-    <img src="https://img.shields.io/badge/Portfolio-gray?style=for-the-badge&logo=porfolio&logoColor=white" alt="Youtube Badge"/>
-  </a>
   <a href="https://gitlab.com/horomi">
     <img src="https://img.shields.io/badge/GitLab-orange?style=for-the-badge&logo=gitlab&logoColor=white" alt="Twitter Badge"/>
   </a>
@@ -15,8 +12,8 @@
 <br>
 - 🌱 Graduated from the Just IT bootcamp (July 2022 Cohort).
 - 🔭 Did a 2-month trainee program at Xander Talent Company.
-- 🥅 2023 Goals: Study Python, REST API, Docker and created 3 respective projects.
-- :books: I am currently solving algorithmic challenges on LeetCode
+- 🥅 2023 Goals: Finish CFG Degree, read the book "Clean Code".
+- :books: I am currently solving algorithmic challenges on LeetCode and HackerRank.
 - :zap: In my free time, I play Volleyball.
 
 As a qualified medical doctor with a strong passion for coding, I am committed to pursuing a career in Software Development. I possess solid algorithmic thinking skills and am detail-oriented, allowing me to approach problems with a meticulous and analytical mindset. 
