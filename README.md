@@ -10,6 +10,7 @@
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=KseniiaEfremova&labelColor=%23d9e3f0&countColor=%23ba68c8)
 <br>
+- :books: CFG Student
 - 🌱 Graduated from the Just IT bootcamp (July 2022 Cohort).
 - 🔭 Did a 2-month trainee program at Xander Talent Company.
 - 🥅 2023 Goals: Finish CFG Degree, read the book "Clean Code".
