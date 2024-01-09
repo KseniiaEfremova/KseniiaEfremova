@@ -3,9 +3,6 @@
   <a href="https://www.linkedin.com/in/kseniia-efremova-1797aa234/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://gitlab.com/horomi">
-    <img src="https://img.shields.io/badge/GitLab-orange?style=for-the-badge&logo=gitlab&logoColor=white" alt="Twitter Badge"/>
-  </a>
 </div>
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=KseniiaEfremova&labelColor=%23d9e3f0&countColor=%23ba68c8)
