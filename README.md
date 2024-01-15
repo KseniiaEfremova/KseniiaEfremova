@@ -1,11 +1,9 @@
-## Hi there, I'm Kseniia 👋
-<div id="badges">
-  <a href="https://www.linkedin.com/in/kseniia-efremova-1797aa234/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
+
 
 # 👋 Hello, World! I'm Kseniia
+<a href="https://www.linkedin.com/in/kseniia-efremova-1797aa234/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
 
 ## 🚀 About Me
 
